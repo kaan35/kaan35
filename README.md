@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I am Kaan Karaman 👋
+ 🌱 I’m currently learning Symfony
 
+ 👀 I’m interested in Web Development
+
+ 📫 How to reach me: https://www.linkedin.com/in/kaan-karaman35
 <!--
 **kaan35/kaan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
