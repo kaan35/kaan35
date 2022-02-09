@@ -1,5 +1,5 @@
 ### Hi, I am Kaan Karaman 👋
- 🌱 I’m currently learning Symfony
+ 🌱 I’m currently learning NodeJS, Angular, NestJS, Express, Symfony
 
  👀 I’m interested in Web Development
 
