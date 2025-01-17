@@ -1,5 +1,5 @@
 ### Hi, I am Kaan Karaman 👋
- 🛠️ I’m currently interested in Node.js, Next.js, React.js Express.js, MongoDB, React Native
+ 🛠️ I’m currently interested in Node.js, Next.js, React.js, Express.js, MongoDB, React Native
 
  📫 How to reach me: https://linkedin.com/in/kaan-karaman35
 <!--
